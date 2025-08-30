@@ -1,0 +1,215 @@
+{
+  "@@locale": "en",
+  "appTitle": "Giyas.AI",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "addExam": "Add Exam",
+  "@addExam": {
+    "description": "Button text to add a new exam"
+  },
+  "generatePlan": "Generate Plan",
+  "@generatePlan": {
+    "description": "Button text to generate study plan"
+  },
+  "regeneratePlan": "Regenerate Plan",
+  "@regeneratePlan": {
+    "description": "Button text to regenerate study plan"
+  },
+  "dailyPlan": "Daily Plan",
+  "@dailyPlan": {
+    "description": "Title for daily study plan"
+  },
+  "weeklyPlan": "Weekly Plan",
+  "@weeklyPlan": {
+    "description": "Title for weekly study plan"
+  },
+  "examSchedule": "Exam Schedule",
+  "@examSchedule": {
+    "description": "Title for exam schedule screen"
+  },
+  "chat": "Chat",
+  "@chat": {
+    "description": "Title for chat screen"
+  },
+  "settings": "Settings",
+  "@settings": {
+    "description": "Title for settings screen"
+  },
+  "subject": "Subject",
+  "@subject": {
+    "description": "Label for subject field"
+  },
+  "date": "Date",
+  "@date": {
+    "description": "Label for date field"
+  },
+  "weight": "Weight",
+  "@weight": {
+    "description": "Label for exam weight field"
+  },
+  "availableMinutes": "Available Minutes",
+  "@availableMinutes": {
+    "description": "Label for daily available minutes"
+  },
+  "language": "Language",
+  "@language": {
+    "description": "Label for language setting"
+  },
+  "timezone": "Timezone",
+  "@timezone": {
+    "description": "Label for timezone setting"
+  },
+  "save": "Save",
+  "@save": {
+    "description": "Button text to save"
+  },
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "Button text to cancel"
+  },
+  "delete": "Delete",
+  "@delete": {
+    "description": "Button text to delete"
+  },
+  "edit": "Edit",
+  "@edit": {
+    "description": "Button text to edit"
+  },
+  "applySuggestion": "Apply Suggestion",
+  "@applySuggestion": {
+    "description": "Button text to apply AI suggestion"
+  },
+  "send": "Send",
+  "@send": {
+    "description": "Button text to send message"
+  },
+  "typeMessage": "Type your message...",
+  "@typeMessage": {
+    "description": "Placeholder text for chat input"
+  },
+  "noExamsYet": "No exams yet",
+  "@noExamsYet": {
+    "description": "Text shown when no exams exist"
+  },
+  "addYourFirstExam": "Add your first exam to get started",
+  "@addYourFirstExam": {
+    "description": "Call to action when no exams exist"
+  },
+  "noPlanYet": "No study plan yet",
+  "@noPlanYet": {
+    "description": "Text shown when no study plan exists"
+  },
+  "generateYourFirstPlan": "Generate your first study plan",
+  "@generateYourFirstPlan": {
+    "description": "Call to action when no study plan exists"
+  },
+  "noTasksToday": "No tasks for today",
+  "@noTasksToday": {
+    "description": "Text shown when no tasks exist for today"
+  },
+  "allCaughtUp": "All caught up!",
+  "@allCaughtUp": {
+    "description": "Text shown when all tasks are completed"
+  },
+  "greeting": "Hello",
+  "@greeting": {
+    "description": "Greeting text"
+  },
+  "today": "Today",
+  "@today": {
+    "description": "Label for today"
+  },
+  "progress": "Progress",
+  "@progress": {
+    "description": "Label for progress"
+  },
+  "minutes": "minutes",
+  "@minutes": {
+    "description": "Label for minutes"
+  },
+  "difficulty": "Difficulty",
+  "@difficulty": {
+    "description": "Label for difficulty"
+  },
+  "syllabusRange": "Syllabus Range",
+  "@syllabusRange": {
+    "description": "Label for syllabus range"
+  },
+  "moodAnalysis": "Mood Analysis",
+  "@moodAnalysis": {
+    "description": "Title for mood analysis screen"
+  },
+  "howAreYouFeeling": "How are you feeling today?",
+  "@howAreYouFeeling": {
+    "description": "Question about user's state"
+  },
+  "moodDescription": "Tell us about your mood and we'll recommend the perfect study session length for you",
+  "@moodDescription": {
+    "description": "Description of mood analysis feature"
+  },
+  "describeMood": "Describe your mood:",
+  "@describeMood": {
+    "description": "Label for mood description field"
+  },
+  "moodHint": "e.g., I feel tired but motivated to study...",
+  "@moodHint": {
+    "description": "Hint text for mood field"
+  },
+  "quickMoods": "Quick moods:",
+  "@quickMoods": {
+    "description": "Label for quick mood buttons"
+  },
+  "analyzeMood": "Analyze Mood",
+  "@analyzeMood": {
+    "description": "Text for analyze mood button"
+  },
+  "readyToAnalyze": "Ready to analyze your mood?",
+  "@readyToAnalyze": {
+    "description": "Empty state text"
+  },
+  "moodInstructions": "Describe how you're feeling or select a quick mood to get personalized study recommendations",
+  "@moodInstructions": {
+    "description": "Instructions for mood analysis"
+  },
+  "analyzingMood": "Analyzing your mood...",
+  "@analyzingMood": {
+    "description": "Loading state text"
+  },
+  "aiRecommendation": "AI Recommendation",
+  "@aiRecommendation": {
+    "description": "Title for AI recommendation"
+  },
+  "recommendedStudyTime": "Recommended Study Time",
+  "@recommendedStudyTime": {
+    "description": "Label for recommended study time"
+  },
+  "whyThisDuration": "Why this duration?",
+  "@whyThisDuration": {
+    "description": "Title for duration explanation"
+  },
+  "studyTips": "Study Tips",
+  "@studyTips": {
+    "description": "Title for study tips"
+  },
+  "tryDifferentMood": "Try Different Mood",
+  "@tryDifferentMood": {
+    "description": "Text for try different mood button"
+  },
+  "applyToPlan": "Apply to Plan",
+  "@applyToPlan": {
+    "description": "Text for apply recommendation button"
+  },
+  "recommendationApplied": "Recommendation applied to study plan!",
+  "@recommendationApplied": {
+    "description": "Success message for applying recommendation"
+  },
+  "errorAnalyzingMood": "Error analyzing mood",
+  "@errorAnalyzingMood": {
+    "description": "Title for error message"
+  },
+  "tryAgain": "Try Again",
+  "@tryAgain": {
+    "description": "Text for try again button"
+  }
+}

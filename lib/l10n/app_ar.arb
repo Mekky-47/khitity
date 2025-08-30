@@ -1,0 +1,215 @@
+{
+  "@@locale": "ar",
+  "appTitle": "جياس.إيه",
+  "@appTitle": {
+    "description": "عنوان التطبيق"
+  },
+  "addExam": "إضافة امتحان",
+  "@addExam": {
+    "description": "نص الزر لإضافة امتحان جديد"
+  },
+  "generatePlan": "إنشاء خطة",
+  "@generatePlan": {
+    "description": "نص الزر لإنشاء خطة الدراسة"
+  },
+  "regeneratePlan": "إعادة إنشاء الخطة",
+  "@regeneratePlan": {
+    "description": "نص الزر لإعادة إنشاء خطة الدراسة"
+  },
+  "dailyPlan": "الخطة اليومية",
+  "@dailyPlan": {
+    "description": "عنوان خطة الدراسة اليومية"
+  },
+  "weeklyPlan": "الخطة الأسبوعية",
+  "@weeklyPlan": {
+    "description": "عنوان خطة الدراسة الأسبوعية"
+  },
+  "examSchedule": "جدول الامتحانات",
+  "@examSchedule": {
+    "description": "عنوان شاشة جدول الامتحانات"
+  },
+  "chat": "المحادثة",
+  "@chat": {
+    "description": "عنوان شاشة المحادثة"
+  },
+  "settings": "الإعدادات",
+  "@settings": {
+    "description": "عنوان شاشة الإعدادات"
+  },
+  "subject": "المادة",
+  "@subject": {
+    "description": "تسمية حقل المادة"
+  },
+  "date": "التاريخ",
+  "@date": {
+    "description": "تسمية حقل التاريخ"
+  },
+  "weight": "الوزن",
+  "@weight": {
+    "description": "تسمية حقل وزن الامتحان"
+  },
+  "availableMinutes": "الدقائق المتاحة",
+  "@availableMinutes": {
+    "description": "تسمية الدقائق اليومية المتاحة"
+  },
+  "language": "اللغة",
+  "@language": {
+    "description": "تسمية إعداد اللغة"
+  },
+  "timezone": "المنطقة الزمنية",
+  "@timezone": {
+    "description": "تسمية إعداد المنطقة الزمنية"
+  },
+  "save": "حفظ",
+  "@save": {
+    "description": "نص الزر للحفظ"
+  },
+  "cancel": "إلغاء",
+  "@cancel": {
+    "description": "نص الزر للإلغاء"
+  },
+  "delete": "حذف",
+  "@delete": {
+    "description": "نص الزر للحذف"
+  },
+  "edit": "تعديل",
+  "@edit": {
+    "description": "نص الزر للتعديل"
+  },
+  "applySuggestion": "تطبيق الاقتراح",
+  "@applySuggestion": {
+    "description": "نص الزر لتطبيق اقتراح الذكاء الاصطناعي"
+  },
+  "send": "إرسال",
+  "@send": {
+    "description": "نص الزر لإرسال الرسالة"
+  },
+  "typeMessage": "اكتب رسالتك...",
+  "@typeMessage": {
+    "description": "نص placeholder لحقل إدخال المحادثة"
+  },
+  "noExamsYet": "لا توجد امتحانات بعد",
+  "@noExamsYet": {
+    "description": "النص المعروض عندما لا توجد امتحانات"
+  },
+  "addYourFirstExam": "أضف أول امتحان للبدء",
+  "@addYourFirstExam": {
+    "description": "دعوة للعمل عندما لا توجد امتحانات"
+  },
+  "noPlanYet": "لا توجد خطة دراسة بعد",
+  "@noPlanYet": {
+    "description": "النص المعروض عندما لا توجد خطة دراسة"
+  },
+  "generateYourFirstPlan": "أنشئ أول خطة دراسة",
+  "@generateYourFirstPlan": {
+    "description": "دعوة للعمل عندما لا توجد خطة دراسة"
+  },
+  "noTasksToday": "لا توجد مهام لليوم",
+  "@noTasksToday": {
+    "description": "النص المعروض عندما لا توجد مهام لليوم"
+  },
+  "allCaughtUp": "تم الإنجاز بالكامل!",
+  "@allCaughtUp": {
+    "description": "النص المعروض عندما تم إنجاز جميع المهام"
+  },
+  "greeting": "مرحباً",
+  "@greeting": {
+    "description": "نص التحية"
+  },
+  "today": "اليوم",
+  "@today": {
+    "description": "تسمية اليوم"
+  },
+  "progress": "التقدم",
+  "@progress": {
+    "description": "تسمية التقدم"
+  },
+  "minutes": "دقائق",
+  "@minutes": {
+    "description": "تسمية الدقائق"
+  },
+  "difficulty": "الصعوبة",
+  "@difficulty": {
+    "description": "تسمية الصعوبة"
+  },
+  "syllabusRange": "نطاق المنهج",
+  "@syllabusRange": {
+    "description": "تسمية نطاق المنهج"
+  },
+  "moodAnalysis": "تحليل المزاج",
+  "@moodAnalysis": {
+    "description": "عنوان شاشة تحليل المزاج"
+  },
+  "howAreYouFeeling": "كيف تشعر اليوم؟",
+  "@howAreYouFeeling": {
+    "description": "سؤال عن حالة المستخدم"
+  },
+  "moodDescription": "أخبرنا عن مزاجك وسنوصي لك بمدة الدراسة المثالية",
+  "@moodDescription": {
+    "description": "وصف ميزة تحليل المزاج"
+  },
+  "describeMood": "صف مزاجك:",
+  "@describeMood": {
+    "description": "تسمية حقل وصف المزاج"
+  },
+  "moodHint": "مثال: أشعر بالتعب لكنني متحمس للدراسة...",
+  "@moodHint": {
+    "description": "نص تلميحي لحقل المزاج"
+  },
+  "quickMoods": "مزاجات سريعة:",
+  "@quickMoods": {
+    "description": "تسمية أزرار المزاجات السريعة"
+  },
+  "analyzeMood": "تحليل المزاج",
+  "@analyzeMood": {
+    "description": "نص زر تحليل المزاج"
+  },
+  "readyToAnalyze": "جاهز لتحليل مزاجك؟",
+  "@readyToAnalyze": {
+    "description": "نص الحالة الفارغة"
+  },
+  "moodInstructions": "صف كيف تشعر أو اختر مزاجاً سريعاً للحصول على توصيات الدراسة الشخصية",
+  "@moodInstructions": {
+    "description": "تعليمات تحليل المزاج"
+  },
+  "analyzingMood": "جاري تحليل مزاجك...",
+  "@analyzingMood": {
+    "description": "نص حالة التحميل"
+  },
+  "aiRecommendation": "توصية الذكاء الاصطناعي",
+  "@aiRecommendation": {
+    "description": "عنوان توصية الذكاء الاصطناعي"
+  },
+  "recommendedStudyTime": "وقت الدراسة الموصى به",
+  "@recommendedStudyTime": {
+    "description": "تسمية وقت الدراسة الموصى به"
+  },
+  "whyThisDuration": "لماذا هذه المدة؟",
+  "@whyThisDuration": {
+    "description": "عنوان شرح المدة"
+  },
+  "studyTips": "نصائح الدراسة",
+  "@studyTips": {
+    "description": "عنوان نصائح الدراسة"
+  },
+  "tryDifferentMood": "جرب مزاجاً مختلفاً",
+  "@tryDifferentMood": {
+    "description": "نص الزر لتجربة مزاج مختلف"
+  },
+  "applyToPlan": "تطبيق على الخطة",
+  "@applyToPlan": {
+    "description": "نص الزر لتطبيق التوصية"
+  },
+  "recommendationApplied": "تم تطبيق التوصية على خطة الدراسة!",
+  "@recommendationApplied": {
+    "description": "رسالة نجاح تطبيق التوصية"
+  },
+  "errorAnalyzingMood": "خطأ في تحليل المزاج",
+  "@errorAnalyzingMood": {
+    "description": "عنوان رسالة الخطأ"
+  },
+  "tryAgain": "حاول مرة أخرى",
+  "@tryAgain": {
+    "description": "نص الزر للمحاولة مرة أخرى"
+  }
+}
