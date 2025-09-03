@@ -1,4 +1,4 @@
-# 🎓 Giyas.AI - AI-Powered Study Planner
+# 🎓 Khitity - AI-Powered Study Planner
 
 A comprehensive Flutter application with a Node.js backend that provides intelligent study planning, mood analysis, and AI-powered study assistance.
 
